@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammad Hassan
 Data Analyst
 ----------------
 
-Experienced Python developer with a passion for coding and three years of dedicated experience under my belt. Currently pursuing a Bachelor's degree in Applied Computer Science, I am enthusiastic about harnessing the power of technology to solve real-world problems. My journey aspires towards a future as a skilled data analyst, where I can blend my coding expertise with a deep understanding of data to extract meaningful insights. Always excited to learn and grow in the world of technology and data analytics.
+Experienced Python developer and data enthusiast with a focus on SQL, Excel, Tableau, and Python. I bring three years of dedicated experience in coding and data analysis, currently pursuing a Bachelor's degree in Applied Computer Science and Statistics. Passionate about leveraging technology to solve real-world problems and uncover meaningful insights from data.
 
 *   🌍  I'm based in Manitoba
 *   ✉️  You can contact me at [hasan.ahmed1435@gmail.com](mailto:hasan.ahmed1435@gmail.com)
