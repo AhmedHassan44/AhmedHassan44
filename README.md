@@ -1,14 +1,14 @@
 Hi 👋 My name is Mohammad Hassan
 ================================
 
-Python Developer
+Data Analyst
 ----------------
 
 Experienced Python developer with a passion for coding and three years of dedicated experience under my belt. Currently pursuing a Bachelor's degree in Applied Computer Science, I am enthusiastic about harnessing the power of technology to solve real-world problems. My journey aspires towards a future as a skilled data analyst, where I can blend my coding expertise with a deep understanding of data to extract meaningful insights. Always excited to learn and grow in the world of technology and data analytics.
 
 *   🌍  I'm based in Manitoba
 *   ✉️  You can contact me at [hasan.ahmed1435@gmail.com](mailto:hasan.ahmed1435@gmail.com)
-*   🧠  I'm learning SQL
+*   🧠  I'm learning Statistical Analysis
 *   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
