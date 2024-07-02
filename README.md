@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Hassan
 ================================
 
-Data Analyst
+Data Scientist
 ----------------
 
 Experienced Python developer and data enthusiast with a focus on SQL, Excel, Tableau, and Python. I bring three years of dedicated experience in coding and data analysis, currently pursuing a Bachelor's degree in Applied Computer Science and Statistics. Passionate about leveraging technology to solve real-world problems and uncover meaningful insights from data.
